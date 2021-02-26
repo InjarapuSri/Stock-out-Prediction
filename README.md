@@ -35,7 +35,7 @@ install all the libraries mentioned in requirements.txt. Use following code.
 
 ​     This is the architecture of the project-
 
-![image-20210226182756761](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20210226182756761.png)
+![image-20210226182756761](https://github.com/InjarapuSri/Stock-out-Prediction/blob/main/Screenshot%20(83).png)
 
 # Training Dataset
 
