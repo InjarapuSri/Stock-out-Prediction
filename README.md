@@ -26,7 +26,7 @@ install all the libraries mentioned in requirements.txt. Use following code.
 * **requirements.txt** file consists of all the packages that you need to deploy the app in the cloud.
 * **main.py** is the entry point of our application, where the flask server starts. 
 * **manifest.yml**:- This file contains the instance configuration, app name, and buildpack language.
-* ![image-20210226182522801](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20210226182522801.png)
+* ![image-20210226182522801](https://github.com/InjarapuSri/Stock-out-Prediction/blob/main/Screenshot%20(85).png)
 * **Procfile** :- It contains the entry point of the app.
 * ![image-20210226182559893](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20210226182559893.png)
 
