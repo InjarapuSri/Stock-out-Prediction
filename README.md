@@ -1,22 +1,13 @@
 #  Stock-out Predictor
 
-<!--
-
- A backorder is an order for a good or service that cannot be filled at the current time due to a lack of available supply. The item may not be held in the company's available inventory but could still be in production, or the company may need to still manufacture more of the product This can impede potential profit that a company can earn. -->
+A backorder is an order for a good or service that cannot be filled at the current time due to a lack of available supply. The item may not be held in the company's available inventory but could still be in production, or the company may need to still manufacture more of the product This can impede potential profit that a company can earn. 
 
 > The backorder is an indication that demand for a company's product outweighs its supply.   
-
-
-
-<!-- 
-
-Stock-out Predictor can help mitigate this loos by forecasting the possibility of backorders whenever there maybe a surge in the demand.-->
+ 
+Stock-out Predictor can help mitigate this loos by forecasting the possibility of backorders whenever there maybe a surge in the demand.
 
 # Environment Setup
 
-<!-- Add a demo for your project -->
-
-<!-- 
 
 This code works well with python 3.6 in conda environment.
 
@@ -26,9 +17,7 @@ install all the libraries mentioned in requirements.txt. Use following code.
 
 
 
-# Project Structure
-
-<!-- 
+# Project Structure 
 
 ![image-20210226182332386](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20210226182332386.png)
 
@@ -41,19 +30,18 @@ install all the libraries mentioned in requirements.txt. Use following code.
 * **Procfile** :- It contains the entry point of the app.
 * ![image-20210226182559893](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20210226182559893.png)
 
- -->
 
-<!--
+
 
 ​     This is the architecture of the project-
 
-![image-20210226182756761](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20210226182756761.png)-->
+![image-20210226182756761](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20210226182756761.png)
 
 # Training Dataset
 
 [(Back to top](#table-of-contents)
 
-<!-- 
+ 
 
 Let's talk a little bit about our training dataset.
 
@@ -107,4 +95,4 @@ Apart from training files, we also require a "schema" file from the client, whic
 
 Name of the files, Length of Date value in FileName, Length of Time value in FileName, Number of Columns, Name of the Columns, and their datatype.
 
- -->
+
