@@ -28,7 +28,7 @@ install all the libraries mentioned in requirements.txt. Use following code.
 * **manifest.yml**:- This file contains the instance configuration, app name, and buildpack language.
 * ![image-20210226182522801](https://github.com/InjarapuSri/Stock-out-Prediction/blob/main/Screenshot%20(85).png)
 * **Procfile** :- It contains the entry point of the app.
-* ![image-20210226182559893](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20210226182559893.png)
+* ![image-20210226182559893](https://github.com/InjarapuSri/Stock-out-Prediction/blob/main/Screenshot%20(86).png)
 
 
 
