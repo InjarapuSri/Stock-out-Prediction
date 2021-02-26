@@ -19,7 +19,7 @@ install all the libraries mentioned in requirements.txt. Use following code.
 
 # Project Structure 
 
-![image-20210226182332386](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20210226182332386.png)
+![image-20210226182332386](https://github.com/InjarapuSri/Stock-out-Prediction/blob/main/Screenshot%20(84).png)
 
 
 
